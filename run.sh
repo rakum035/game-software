@@ -1,1 +1,1 @@
-uptime > /tmp/report
+time > /tmp/report
